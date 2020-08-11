@@ -1,0 +1,121 @@
+.fex,.fex-c,.fex-l,.fex-r{
+    display:-webkit-flex;
+    display:-ms-flex;
+    display:flex;
+    display:-moz-flex;
+    flex-direction:row;-ms-flex-direction:row;-webkit-flex-direction:row;flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;}
+.fex{justify-content:space-between;-webkit-justify-content:space-between}
+.fex-c{justify-content:center;-webkit-justify-content:center}
+.fex-l{justify-content:flex-start;-webkit-justify-content:flex-start}
+.fex-r{justify-content:flex-end;-webkit-justify-content:flex-end}
+.fex-nowrap{flex-wrap:nowrap;-ms-flex-wrap:nowrap;-webkit-flex-wrap:nowrap}
+.fex-row-reverse{flex-direction:row-reverse;-webkit-flex-direction:row-reverse;-ms-flex-direction:row-reverse}
+.fex-column{flex-direction:column;-webkit-flex-direction:column;-ms-flex-direction:column}
+.fex-rcolumn{flex-direction:column-reverse;-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse}
+.fex-items-c{align-items:center;-webkit-align-items:center}
+.fex-items-e{align-items:flex-end;-webkit-align-items:flex-end}
+.fex-content-c{align-content:center;-webkit-align-content:center}
+.fex .x1,.fex .x2,.fex .x3,.fex .x4,.fex .x5,.fex .x6,.fex .x7,.fex .x8,.fex .x9,.fex .x10,.fex .x11,.fex .x12,.fex .xl1,.fex .xl2,.fex .xl3,.fex .xl4,.fex .xl5,.fex .xl6,.fex .xl7,.fex .xl8,.fex .xl9,.fex .xl10,.fex .xl11,.fex .xl12,.fex .xs1,.fex .xs2,.fex .xs3,.fex .xs4,.fex .xs5,.fex .xs6,.fex .xs7,.fex .xs8,.fex .xs9,.fex .xs10,.fex .xs11,.fex .xs12,.fex .xm1,.fex .xm2,.fex .xm3,.fex .xm4,.fex .xm5,.fex .xm6,.fex .xm7,.fex .xm8,.fex .xm9,.fex .xm10,.fex .xm11,.fex .xm12,.fex .xb1,.fex .xb2,.fex .xb3,.fex .xb4,.fex .xb5,.fex .xb6,.fex .xb7,.fex .xb8,.fex .xb9,.fex .xb10,.fex .xb11,.fex .xb12,.fex-c .x1,.fex-c .x2,.fex-c .x3,.fex-c .x4,.fex-c .x5,.fex-c .x6,.fex-c .x7,.fex-c .x8,.fex-c .x9,.fex-c .x10,.fex-c .x11,.fex-c .x12,.fex-c .xl1,.fex-c .xl2,.fex-c .xl3,.fex-c .xl4,.fex-c .xl5,.fex-c .xl6,.fex-c .xl7,.fex-c .xl8,.fex-c .xl9,.fex-c .xl10,.fex-c .xl11,.fex-c .xl12,.fex-c .xs1,.fex-c .xs2,.fex-c .xs3,.fex-c .xs4,.fex-c .xs5,.fex-c .xs6,.fex-c .xs7,.fex-c .xs8,.fex-c .xs9,.fex-c .xs10,.fex-c .xs11,.fex-c .xs12,.fex-c .xm1,.fex-c .xm2,.fex-c .xm3,.fex-c .xm4,.fex-c .xm5,.fex-c .xm6,.fex-c .xm7,.fex-c .xm8,.fex-c .xm9,.fex-c .xm10,.fex-c .xm11,.fex-c .xm12,.fex-c .xb1,.fex-c .xb2,.fex-c .xb3,.fex-c .xb4,.fex-c .xb5,.fex-c .xb6,.fex-c .xb7,.fex-c .xb8,.fex-c .xb9,.fex-c .xb10,.fex-c .xb11,.fex-c .xb12,.fex-l .x1,.fex-l .x2,.fex-l .x3,.fex-l .x4,.fex-l .x5,.fex-l .x6,.fex-l .x7,.fex-l.x8,.fex-l .x9,.fex-l .x10,.fex-l .x11,.fex-l .x12,.fex-l .xl1,.fex-l .xl2,.fex-l .xl3,.fex-l .xl4,.fex-l .xl5,.fex-l .xl6,.fex-l .xl7,.fex-l .xl8,.fex-l .xl9,.fex-l .xl10,.fex-l .xl11,.fex-l .xl12,.fex-l .xs1,.fex-l .xs2,.fex-l .xs3,.fex-l .xs4,.fex-l .xs5,.fex-l .xs6,.fex-l .xs7,.fex-l .xs8,.fex-l .xs9,.fex-l .xs10,.fex-l .xs11,.fex-l .xs12,.fex-l .xm1,.fex-l .xm2,.fex-l .xm3,.fex-l .xm4,.fex-l .xm5,.fex-l .xm6,.fex-l .xm7,.fex-l .xm8,.fex-l .xm9,.fex-l .xm10,.fex-l .xm11,.fex-l .xm12,.fex-l .xb1,.fex-l .xb2,.fex-l .xb3,.fex-l .xb4,.fex-l .xb5,.fex-l.xb6,.fex-l .xb7,.fex-l .xb8,.fex-l .xb9,.fex-l .xb10,.fex-l .xb11,.fex-l .xb12,.fex-r .x1,.fex-r .x2,.fex-r .x3,.fex-r .x4,.fex-r .x5,.fex-r .x6,.fex-r .x7,.fex-r .x8,.fex-r .x9,.fex-r .x10,.fex-r .x11,.fex-r .x12,.fex-r .xl1,.fex-r .xl2,.fex-r .xl3,.fex-r.xl4,.fex-r .xl5,.fex-r .xl6,.fex-r .xl7,.fex-r .xl8,.fex-r .xl9,.fex-r .xl10,.fex-r .xl11,.fex-r .xl12,.fex-r .xs1,.fex-r .xs2,.fex-r .xs3,.fex-r .xs4,.fex-r .xs5,.fex-r .xs6,.fex-r.xs7,.fex-r .xs8,.fex-r .xs9,.fex-r .xs10,.fex-r .xs11,.fex-r .xs12,.fex-r .xm1,.fex-r .xm2,.fex-r .xm3,.fex-r .xm4,.fex-r .xm5,.fex-r .xm6,.fex-r .xm7,.fex-r .xm8,.fex-r .xm9,.fex-r.xm10,.fex-r .xm11,.fex-r .xm12,.fex-r .xb1,.fex-r .xb2,.fex-r .xb3,.fex-r .xb4,.fex-r .xb5,.fex-r .xb6,.fex-r .xb7,.fex-r .xb8,.fex-r .xb9,.fex-r .xb10,.fex-r .xb11,.fex-r .xb12{
+    display: -webkit-inline-flex;
+    display: inline-flex;
+}
+/*栅格*/
+.cont{margin:0 auto;padding:0 10px}
+.x1{width:8.333333333%}
+.x2{width:16.666666666%}
+.x3{width:25%}
+.x4{width:33.333333333%}
+.x5{width:41.666666666%}
+.x6{width:50%}
+.x7{width:58.333333333%}
+.x8{width:66.666666666%}
+.x9{width:75%}
+.x10{width:83.333333333%}
+.x11{width:91.666666666%}
+.layout,.x12{width:100%}
+@media(min-width:300px){
+    .cont{padding:0}
+    .xl1{width:8.33333333%}
+    .xl2{width:16.66666666%}
+    .xl3{width:25%}
+    .xl4{width:33.33333333%}
+    .xl5{width:41.66666666%}
+    .xl6{width:50%}
+    .xl7{width:58.33333333%}
+    .xl8{width:66.66666666%}
+    .xl9{width:75%}
+    .xl10{width:83.33333333%}
+    .xl11{width:91.66666666%}
+    .xl12{width:100%}
+}
+@media(min-width:760px){
+    .cont{width:750px}
+    .xs1{width:8.33333333%}
+    .xs2{width:16.66666666%}
+    .xs3{width:25%}
+    .xs4{width:33.33333333%}
+    .xs5{width:41.66666666%}
+    .xs6{width:50%}
+    .xs7{width:58.33333333%}
+    .xs8{width:66.66666666%}
+    .xs9{width:75%}
+    .xs10{width:83.33333333%}
+    .xs11{width:91.66666666%}
+    .xs12{width:100%}
+}
+@media(min-width:1000px){
+    .cont{width:1000px}
+    .xm1{width:8.33333333%}
+    .xm2{width:16.66666666%}
+    .xm3{width:25%}
+    .xm4{width:33.33333333%}
+    .xm5{width:41.66666666%}
+    .xm6{width:50%}
+    .xm7{width:58.33333333%}
+    .xm8{width:66.66666666%}
+    .xm9{width:75%}
+    .xm10{width:83.33333333%}
+    .xm11{width:91.66666666%}
+    .xm12{width:100%}
+}
+@media(min-width:1200px){
+    .cont{width:1200px}
+    .xb1{width:8.33333333%}
+    .xb2{width:16.66666666%}
+    .xb3{width:25%}
+    .xb4{width:33.33333333%}
+    .xb5{width:41.66666666%}
+    .xb6{width:50%}
+    .xb7{width:58.33333333%}
+    .xb8{width:66.66666666%}
+    .xb9{width:75%}
+    .xb10{width:83.33333333%}
+    .xb11{width:91.66666666%}
+    .xb12{width:100%}
+}
+/*文本排版*/
+.t-c{text-align:center}
+.t-l{text-align:left}
+.t-r{text-align:right}
+/*定位 浮动*/
+.pos-r{position:relative}
+.pos-a{position:absolute}
+.pos-f{position:fixed}
+.jus-cnt-spa{
+	justify-content: space-around;
+}
+.jus-cnt-spb{
+	justify-content: space-between;
+}
+.height{
+    height: 100%;
+}
+.webupimg{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #dfdfdf;
+}
+.webupimg img{
+   max-width: 100%;
+    max-height: 100%;
+}
