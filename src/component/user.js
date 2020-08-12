@@ -10,7 +10,7 @@ class UserShow extends Component{
         if(this.props.data!=null){ 
             const data = this.props.data;
             return(
-                <div className="app-cont-userShow fex-column fex-c fex-items-c xl3 " >
+                <div className="app-cont-userShow fex-column fex-c fex-items-c layout " >
                     <div className='user-box '>
                         <div className='userShow-level-circle'>
                              <ul className='pie'>
