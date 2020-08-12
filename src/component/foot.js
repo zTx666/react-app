@@ -51,6 +51,7 @@ class AppFoot extends Component{
       $(this).siblings().css({
         "color":'#6A758A'
       })
+      
       $('.option-active').animate({
         'left':Xpos,
         'top':Ypos,
